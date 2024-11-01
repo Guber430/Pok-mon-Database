@@ -1,1 +1,1 @@
-# Pok-mon-Database
+Developed a relational database to manage Pokémon and trainer data with enforced data integrity through constraints and optimized for efficient querying. Utilized SQL and database design to create an ERD and five interlinked tables, supporting data analysis queries.
