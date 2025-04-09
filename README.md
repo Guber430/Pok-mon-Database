@@ -1,6 +1,6 @@
 # Pokémon Database
 
-This repository contains a **relational database** designed to manage **Pokémon** and **trainer** data. The database enforces **data integrity** through constraints and is optimized for efficient querying. It uses **SQL** and **database design** principles to create an **ERD** and five interlinked tables, supporting **data analysis queries**.
+This repository contains a **relational database** designed to manage **Pokémon** and **trainer** data. The database enforces **data integrity** through constraints and is optimized for efficient querying. It uses **SQL** in **MS SQL Server** and follows database design principles to create an **ERD** and five interlinked tables, supporting **data analysis queries**.
 
 ---
 
@@ -11,6 +11,7 @@ This repository contains a **relational database** designed to manage **Pokémon
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
   - [Clone the Repository](#clone-the-repository)
+
 ---
 
 ## Project Overview
@@ -33,7 +34,7 @@ The database ensures **data integrity** through various constraints:
 ---
 
 ## Technologies Used
-- **SQL** for database creation and management
+- **SQL** (MS SQL Server) for database creation and management
 - **ERD (Entity Relationship Diagram)** for database design
 - **Relational Database** for efficient querying and storage
 
